@@ -1,4 +1,5 @@
 # homeworck 8.1
+from itertools import count
 
 def add_one(some_list):
     # с помошью метода map преобразуем список в строку после int делает из строки целое число + 1
